@@ -13,8 +13,6 @@ Table of Contents
    model
    method
    result    
-   othermethod
-   comparison
-   higherorder 
+   plot
    summary
 

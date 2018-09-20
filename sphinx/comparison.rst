@@ -1,9 +1,0 @@
-.. _comparison:
-
-Performance comparison
------------------------------------
-
-
-
-
-
